@@ -16,7 +16,8 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 
 <br>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=tayfunaydinoz&&show_icons=true&theme=shadow_green"/> <img  width=" 400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfunaydinoz&layout=donut&theme=shadow_green"/> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfunaydinoz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunaydinoz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | 
 
 ## 🧰 &nbsp;My toolbox
 
@@ -24,3 +25,5 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 
 ## 🖥 &nbsp;Top Repositories
  Coming Soon!
+
+
