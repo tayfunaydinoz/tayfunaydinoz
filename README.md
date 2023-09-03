@@ -21,7 +21,7 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 
 ## 🧰 &nbsp;My toolbox
 
-<img  src="https://skillicons.dev/icons?i=java,py,mysql,django,maven,vscode,idea,eclipse,matlab,sqlite,arduino,autocad,blender&theme=light"/>
+<img  src="https://skillicons.dev/icons?i=java,py,mysql,vscode,idea,eclipse,django,matlab,sqlite,arduino,autocad,blender&theme=light"/>
 
 ## 🖥 &nbsp;Top Repositories
  Coming Soon!
