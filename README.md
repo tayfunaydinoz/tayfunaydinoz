@@ -16,7 +16,7 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfunaydinoz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunaydinoz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfunaydinoz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tayfun AYDINOZ's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunaydinoz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
 
 ## 🧰 &nbsp;My toolbox
