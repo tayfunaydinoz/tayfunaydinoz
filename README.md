@@ -7,7 +7,7 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Java Projects**
-- 🤝 &nbsp; I’m looking to collaborate with other sofware developers
+- 🤝 &nbsp; I’m looking to collaborate with other software developers
 - 🌱 &nbsp; I’m currently learning Java and Spring; 
 - 👨🏻‍💻 &nbsp; My projects are coming soon on [Github](https://github.com/tayfunaydinoz?tab=repositories)
 - 💬 &nbsp; Contact me about anything tech related, I am happy to talk;
