@@ -24,6 +24,12 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 <img  src="https://skillicons.dev/icons?i=java,py,mysql,vscode,idea,eclipse,django,matlab,sqlite,arduino,autocad,blender&theme=light"/>
 
 ## 🖥 &nbsp;Top Repositories
- Coming Soon!
+
+<a href="https://github.com/tayfunaydinoz/JavaProjects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunaydinoz&repo=JavaProjects&theme=buefy" />
+</a>
+<a href="https://github.com/tayfunaydinoz/LeetCodeSolutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunaydinoz&repo=LeetCodeSolutions&theme=buefy" />
+</a>
 
 
