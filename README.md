@@ -25,8 +25,8 @@ I'm a mechatronics engineer who worked as a mechanical design engineer and who w
 
 ## 🖥 &nbsp;Top Repositories
 
-<a href="https://github.com/tayfunaydinoz/JavaProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunaydinoz&repo=JavaProjects&theme=buefy" />
+<a href="https://github.com/tayfunaydinoz/expensetracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunaydinoz&repo=expensetracker&theme=buefy" />
 </a>
 <a href="https://github.com/tayfunaydinoz/LeetCodeSolutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunaydinoz&repo=LeetCodeSolutions&theme=buefy" />
